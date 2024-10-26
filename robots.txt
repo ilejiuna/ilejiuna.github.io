@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ilejiuna.github.io/sitemap_index.ilejiuna
